@@ -1,5 +1,5 @@
 # My study Habits Project
-In this project I analyzed my logged studied hours in the fifth semester. I performed initial analysis and visualisations.
+In my fifth semester I logged weekly every hour of studying in an Excel spreadsheet. In this project I want analyze this data=) I performed initial analysis and visualisations.
 
 ## The ***questions*** that I want to answer with my project:
 1) How was my time distributed? Was it different for different subjects? What did I do hourlywise to get good grades? Does cramming help?
