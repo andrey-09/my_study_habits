@@ -7,9 +7,17 @@ In this project I analyzed my logged studied hours in the fifth semester. I perf
 
 
 
-## Outline of the project:
-* 
+## Outline of the project files:
+1. data folder - folder with the data to analyze
+2. img folder - folder with supplementary images for the Jupyter Notebook
+3. <inc>Study Habits.ipynb</inc> - main file: Jupyter Notebook with the data exploration, analysis and visualisation
 
+
+## The goal of the project was to practice:
+1. exploratory analysis of the data and answering my initial questions
+2. digging a level deeper and gaining insights on the influence of hours on grades and its dependecy
+3. different statistic dependencies and its impact on the data interpretation
+4. Object Oriented visualising style
 
 
 ***Thanks in advance, if you time find to read my analysis=)***
