@@ -7,7 +7,7 @@ In this project I analyzed my logged studied hours in the fifth semester. I perf
 
 
 
-## Outline of the projects:
+## Outline of the project:
 * 
 
 
