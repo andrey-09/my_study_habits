@@ -19,5 +19,3 @@ In my fifth semester I logged weekly every hour of studying in an Excel spreadsh
 3. different statistic dependencies and its impact on the data interpretation
 4. Object Oriented visualising style
 
-
-***Thanks in advance, if you find time to read my analysis=)***
